@@ -1,1 +1,2 @@
-# Dummy Lab Framework para Física (CM)
+# Gizburg Landau (AI)
+Gizburg Landau superconductor simulations powered by AI.
